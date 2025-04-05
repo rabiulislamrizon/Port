@@ -107,7 +107,7 @@ const Home = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    Hire me!
+                    Hire me! One
                   </a>
                 </div>
                 <div className="menu-bar d-lg-none">
